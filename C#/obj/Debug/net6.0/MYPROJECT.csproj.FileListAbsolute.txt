@@ -1,0 +1,15 @@
+C:\Users\solicode\Desktop\MYPROJECT\bin\Debug\net6.0\MYPROJECT.exe
+C:\Users\solicode\Desktop\MYPROJECT\bin\Debug\net6.0\MYPROJECT.deps.json
+C:\Users\solicode\Desktop\MYPROJECT\bin\Debug\net6.0\MYPROJECT.runtimeconfig.json
+C:\Users\solicode\Desktop\MYPROJECT\bin\Debug\net6.0\MYPROJECT.dll
+C:\Users\solicode\Desktop\MYPROJECT\bin\Debug\net6.0\MYPROJECT.pdb
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\MYPROJECT.csproj.AssemblyReference.cache
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\MYPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\MYPROJECT.AssemblyInfoInputs.cache
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\MYPROJECT.AssemblyInfo.cs
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\MYPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\MYPROJECT.dll
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\refint\MYPROJECT.dll
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\MYPROJECT.pdb
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\MYPROJECT.genruntimeconfig.cache
+C:\Users\solicode\Desktop\MYPROJECT\obj\Debug\net6.0\ref\MYPROJECT.dll
